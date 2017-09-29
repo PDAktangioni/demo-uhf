@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\demo-uhf\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_590b9c1c297e30c47f97ef3446c05147e4e7786e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\demo-uhf\app\libs\xUtils-2.5.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7b27a19b6f7ed3d26d9157147545c94ea8ee535">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\demo-uhf\app\build\intermediates\pre-dexed\debug\xUtils-2.5.5_1ec6237758061dfcf46f1ea6a9f5dce22fdcfad1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\demo-uhf\app\libs\DeviceAPIver20150929.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="654c3456ef6432698e681e4383135015341bb3b3">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\demo-uhf\app\build\intermediates\pre-dexed\debug\DeviceAPIver20150929_121d7f0ecb1c8b3657631338fe7815eade60c166.jar" />
+    </item>
+
+</items>
